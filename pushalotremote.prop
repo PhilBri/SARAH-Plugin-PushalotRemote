@@ -1,6 +1,6 @@
 {
   "modules" : { 
-    "pushalotRemote"  : {
+    "pushalotremote"  : {
       "description": "SARAH envoie des messages Pushalot",
       "version"    : "1.0",
       "Token"      : "YOUR APP TOKEN",
