@@ -1,7 +1,7 @@
 exports.action = function(data, callback, config){
   // Retrieve config
   config = config.modules.pushalot;
-  if (!config.token){
+  if (!config.Token){
     console.log('\033[91m[ Error ]\033[0m PushalotRemote => \'Token\' non paramétré');
     callback({});
     return;
