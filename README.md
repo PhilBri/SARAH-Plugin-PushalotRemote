@@ -1,4 +1,4 @@
-#<img src="../master/images/pushalot.png" height="20" width="20"> PushalotRemote
+#<img src="../master/images/pushalot.png" height="40" width="40"> PushalotRemote
 
 Plugin for S.A.R.A.H. project by JP Encausse http://blog.encausse.net/s-a-r-a-h/
 
